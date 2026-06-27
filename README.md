@@ -12,7 +12,7 @@
   - contact.html
   - css/style.css
   - js/main.js
-  - images/（放入实际照片，示例占位： logo.svg, carousel1.svg, carousel2.svg, carousel3.svg, campus1.svg, campus2.svg, campus3.svg, alumni1.svg, alumni2.svg, alumni3.svg ）
+  - images/（放入实际照片，示例占位： logo.png, carousel1.jpg, carousel2.jpg, carousel3.jpg, campus1.jpg, campus2.jpg, campus3.jpg, alumni1.jpg, alumni2.jpg, alumni3.jpg ）
 
 部署与预览：
 1. 本地预览：在项目根目录打开 index.html 即可在浏览器查看（推荐使用 live-server 或 VSCode 的 Live Preview 扩展）。
